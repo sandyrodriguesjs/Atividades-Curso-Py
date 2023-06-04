@@ -1,2 +1,2 @@
 # Atividades-Curso-Py
-Lista do curso fundação bradesco
+Lista do curso 
